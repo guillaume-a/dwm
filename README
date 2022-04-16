@@ -15,6 +15,7 @@ Patches applied in order. Few patches have been updated to fit my build
 * dwm-azerty-20220417.diff
 * dwm-autostart-20220417.diff
 * dwm-focusmonmouse-6.2.diff
+* dwm-focusonclick-20220417.diff
 
 Installation
 ------------

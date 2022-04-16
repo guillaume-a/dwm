@@ -1,0 +1,10 @@
+Patches to apply:
+
+* https://dwm.suckless.org/patches/xrdb/
+
+Patches to create:
+
+* Move to next/prev mon
+* Follow focus when previous patch is done
+
+

@@ -17,6 +17,8 @@ Patches applied in order. Few patches have been updated to fit my build
 * dwm-focusmonmouse-6.2.diff
 * dwm-focusonclick-20220417.diff
 * dwm-xrdb-20220417.diff
+* dwm-status2d-20220417.diff
+* dwm-status2d-xrdb-20220417.diff
 
 Installation
 ------------

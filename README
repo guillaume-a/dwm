@@ -21,6 +21,7 @@ Patches applied in order. Few patches have been updated to fit my build
 * dwm-status2d-xrdb-20220417.diff
 * dwm-statuscmd-status2d-20210405-60bb3df.diff
 * dwm-dwmblocks-async-20220417.diff
+* dwm-tagmon-focus-20220419.diff
 
 Installation
 ------------

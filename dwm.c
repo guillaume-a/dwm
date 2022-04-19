@@ -1988,7 +1988,11 @@ tagmon(const Arg *arg)
 {
 	if (!selmon->sel || !mons->next)
 		return;
-	sendmon(selmon->sel, dirtomon(arg->i));
+
+	Client *c = selmon->sel;
+	sendmon(c, dirtomon(arg->i));
+	focus(c);
+	XWarpPointer(dpy, None, c->win, 0, 0, 0, 0, c->w/2, c->h/2);
 }
 
 void
